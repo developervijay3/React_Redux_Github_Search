@@ -1,0 +1,47 @@
+.logo{
+    align-content: center;
+    height: 80px;
+}
+
+.btn-info {
+    background: #17a2b8;
+    width: 100%;
+}
+
+.card{
+    height: 200px;
+    width: 330px;
+    float: left;
+    border: 2px solid gray;
+    margin: 5px;
+}
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgb(241, 248, 251);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    color: #000000;
+    text-align: center;
+ 
+}
+
+.card {
+    height: 200px;
+    width: 330px;
+    float: left;
+    border: 1px solid #ececec;
+    margin: 5px;
+}
+.card-body{
+    text-align: center;
+}
+.nodata{
+    text-align: center;
+    margin-top:2%;
+}
+
+.fa, .far, .fas {
+    margin-right: 5px;
+    font-family: "Font Awesome 5 Free";
+    color: #a1a3a7;
+}
